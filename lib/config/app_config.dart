@@ -1,1 +1,1 @@
-const clientId = "Your X Mal Client ID here";
+const clientId = "2607cf54952fdb10412d1150c90f2a96";

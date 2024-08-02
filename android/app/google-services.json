@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754574871779",
+    "project_id": "otakuoasis-4f0bb",
+    "storage_bucket": "otakuoasis-4f0bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754574871779:android:fe5a2185590bd2256309d6",
+        "android_client_info": {
+          "package_name": "com.example.anime_world_tutorial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaWneEW8YCZG_07EfN-pBYvI3Z1aCTUSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
