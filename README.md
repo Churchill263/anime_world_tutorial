@@ -1,3 +1,3 @@
-# anime_world_tutorial
+# Otaku Oasis
 
 A new Flutter project.
